@@ -10,7 +10,7 @@
 #### * Purpose: Registers a new user.
 
 
-#### * Request Body (JSON):
+#### * + Request Body (JSON):
 ```javascript
 {
     "name":"chovwe",
