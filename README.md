@@ -1,16 +1,16 @@
 # log-api
 ## API Documentation
 
-#### ..* Register User
+* Register User
 
-#### * Endpoint: POST /register
+* Endpoint: POST /register
 
-#### * Controller Action: [AuthController::class, 'register']
+* Controller Action: [AuthController::class, 'register']
 
-#### * Purpose: Registers a new user.
+* Purpose: Registers a new user.
 
 
-#### * + Request Body (JSON):
+* + Request Body (JSON):
 ```javascript
 {
     "name":"chovwe",
