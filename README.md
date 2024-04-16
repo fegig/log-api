@@ -1,7 +1,7 @@
 # log-api
 ## API Documentation
 
-#### * Register User
+#### ..* Register User
 
 #### * Endpoint: POST /register
 
